@@ -1,3 +1,2 @@
 # hello-world
-This is hello world project.
-I am on of the prep moringa school.
+This is hello world project. My project will be one of the projects
